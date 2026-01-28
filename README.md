@@ -61,3 +61,41 @@ The goal is to build strong ML fundamentals and create **job-ready projects**.
 
 ## 📂 Repository Structure
 
+
+
+---
+
+## 🎯 Key Skills Demonstrated
+
+- Data preprocessing & feature engineering
+- Model selection & comparison
+- Bias–Variance trade-off understanding
+- Hyperparameter tuning using GridSearchCV
+- Model evaluation using:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-Score
+  - ROC-AUC
+  - RMSE
+  - MAE
+  - R² Score
+- Version control using Git & GitHub
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Programming Language:** Python  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Environment:** Jupyter Notebook / VS Code  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 🚀 How to Use This Repository
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/mini-project.git
+
