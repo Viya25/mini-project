@@ -65,14 +65,12 @@ Machine-Learning/ │ ├── datasets/ # CSV datasets ├── notebooks/ # 
 •	Bias-Variance trade-off understanding
 •	Hyperparameter tuning using GridSearchCV
 •	Model evaluation using:
-o	Accuracy
-o	Precision
+  o	Accuracy
+  o	Precision
 o	Recall
 o	F1-Score
 o	ROC-AUC
 o	RMSE
 o	MAE
 o	R²
-
-
 
